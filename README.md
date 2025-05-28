@@ -1,5 +1,6 @@
 # OxiDD_visualizations
-For OxiDD visualizations
+Python files and Notebooks for OxiDD visualizations.
+This code just shows how the visualizations were created.
 
 For the code to work, one needs to install OxiDD from this branch: https://github.com/TarVK/oxidd
 
